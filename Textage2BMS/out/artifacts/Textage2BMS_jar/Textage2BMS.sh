@@ -1,0 +1,1 @@
+java -jar Textage2BMS.jar $*
